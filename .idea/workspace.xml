@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6898bf4-5f5d-477a-9d82-9e55cbbdcc2f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/.eslintignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ISSUE_TEMPLATE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/codacy.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ac.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ad.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ae.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.af.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ag.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ai.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.al.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.am.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ao.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.as.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.at.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.au-cn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.au.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.aw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.az.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ba.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.be.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bj.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.br.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.by.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.bz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.cc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.cd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.cf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.cg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ci.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ck.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.cl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.cm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.cn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.co.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.cr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.cu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.cv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.cw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.cx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.cy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.cz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.dj.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.dk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.dm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.do.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.dz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ec.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ee.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.eg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.eh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.er.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.et.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.fi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.fj.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.fk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.fm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.fo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.fr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ga.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ge.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.gy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.hk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.hn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.hr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ht.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.hu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.i18n.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.id.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.il.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.im.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.in.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.io.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.iq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ir.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.is.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.it.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.je.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.jm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.jo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.jp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ke.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.kg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.kh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ki.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.km.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.kn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.kp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.kr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.kw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ky.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.kz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.la.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.lb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.lc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.li.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.lk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.lr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ls.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.lt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.lu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.lv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ly.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ma.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.md.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.me.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ms.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.my.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.mz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.na.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.nc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ne.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.nf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ng.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ni.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.nl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.no.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.np.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.nr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.nu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.nz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.om.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.pa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.pe.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.pf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.pg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ph.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.pk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.pl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.pm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.pr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ps.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.pt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.pw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.py.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.qa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.re.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ro.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.rs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.rw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.se.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.si.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sj.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.so.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ss.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.st.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.sz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ta.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.tc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.td.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.tg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.th.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.tj.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.tk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.tl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.tm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.tn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.to.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.tr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.tt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.tv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.tw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.tz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ua.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ug.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.us.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.uy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.uz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.va.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.vc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ve.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.vg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.vi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.vn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.vu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.wf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ws.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.ye.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.yt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.za.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.zm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/addons/cleave-phone.zw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/cleave-angular.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/cleave-angular.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/cleave-react-node.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/cleave-react-node.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/cleave-react.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/cleave-react.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/cleave.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/cleave.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/doc/angularjs-directive-usage.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/doc/constructor.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/doc/doc.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/doc/js-api.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/doc/not-in-the-plan.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/doc/options.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/doc/phone-lib-addon.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/doc/public-methods.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/doc/reactjs-component-usage.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gulp-tasks/addon.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gulp-tasks/browserify.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gulp-tasks/build.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gulp-tasks/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gulp-tasks/webpack.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/react.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Cleave.angular.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Cleave.js" afterPath="$PROJECT_DIR$/src/Cleave.js" />
+      <change beforePath="$PROJECT_DIR$/src/Cleave.react.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ac.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ad.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ae.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.af.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ag.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ai.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.al.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.am.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ao.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.as.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.at.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.au.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.aw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.az.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ba.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.be.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bj.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.br.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.by.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.bz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.cc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.cd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.cf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.cg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ci.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ck.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.cl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.cm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.cn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.co.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.cr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.cu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.cv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.cw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.cx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.cy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.cz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.dj.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.dk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.dm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.do.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.dz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ec.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ee.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.eg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.eh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.er.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.et.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.fi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.fj.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.fk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.fm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.fo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.fr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ga.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ge.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.gy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.hk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.hn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.hr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ht.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.hu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.i18n.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.id.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.il.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.im.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.in.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.io.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.iq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ir.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.is.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.it.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.je.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.jm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.jo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.jp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ke.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.kg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.kh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ki.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.km.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.kn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.kp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.kr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.kw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ky.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.kz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.la.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.lb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.lc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.li.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.lk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.lr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ls.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.lt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.lu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.lv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ly.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ma.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.md.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.me.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ml.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ms.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.my.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.mz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.na.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.nc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ne.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.nf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ng.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ni.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.nl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.no.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.np.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.nr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.nu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.nz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.om.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.pa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.pe.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.pf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.pg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ph.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.pk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.pl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.pm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.pr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ps.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.pt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.pw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.py.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.qa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.re.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ro.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.rs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.rw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.se.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.si.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sj.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.so.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ss.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.st.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.sz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ta.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.tc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.td.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.tg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.th.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.tj.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.tk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.tl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.tm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.tn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.to.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.tr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.tt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.tv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.tw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.tz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ua.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ug.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.us.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.uy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.uz.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.va.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.vc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ve.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.vg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.vi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.vn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.vu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.wf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ws.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.ye.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.yt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.za.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.zm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/addons/phone-type-formatter.zw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/build/license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/common/DefaultProperties.js" afterPath="$PROJECT_DIR$/src/common/DefaultProperties.js" />
+      <change beforePath="$PROJECT_DIR$/src/shortcuts/CreditCardDetector.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/shortcuts/DateFormatter.js" afterPath="$PROJECT_DIR$/src/shortcuts/DateFormatter.js" />
+      <change beforePath="$PROJECT_DIR$/src/shortcuts/NumeralFormatter.js" afterPath="$PROJECT_DIR$/src/shortcuts/NumeralFormatter.js" />
+      <change beforePath="$PROJECT_DIR$/src/shortcuts/PhoneFormatter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Util.js" afterPath="$PROJECT_DIR$/src/utils/Util.js" />
+      <change beforePath="$PROJECT_DIR$/test/addons/phone-type-formatter.i18n.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/browser/credit-card.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/browser/custom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/browser/date.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/browser/numeral.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/browser/phone.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/browser/runner.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/credit-card.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/date.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/numeral.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/phone.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/util.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/unit/CreditCardDetector_spec.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/unit/DateFormatter_spec.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/unit/NumeralFormatter_spec.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/unit/PhoneFormatter_spec.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/unit/Util_spec.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Cleave.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cleave.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="387" column="58" lean-forward="false" selection-start-line="387" selection-start-column="58" selection-end-line="387" selection-end-column="58" />
+              <folding>
+                <element signature="e#262#326#0" expanded="false" />
+                <element signature="e#332#451#0" expanded="false" />
+                <element signature="e#2285#2630#0" expanded="false" />
+                <element signature="e#2665#3299#0" expanded="false" />
+                <element signature="e#3328#3377#0" expanded="false" />
+                <element signature="e#3404#3472#0" expanded="false" />
+                <element signature="e#3500#3542#0" expanded="false" />
+                <element signature="e#3581#4246#0" expanded="false" />
+                <element signature="e#6486#6986#0" expanded="false" />
+                <element signature="e#7023#7599#0" expanded="false" />
+                <element signature="e#7636#7983#0" expanded="false" />
+                <element signature="e#8015#8535#0" expanded="false" />
+                <element signature="e#8572#8711#0" expanded="false" />
+                <element signature="e#8749#8791#0" expanded="false" />
+                <element signature="e#8819#9152#0" expanded="false" />
+                <element signature="e#9181#9222#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>57</find>
+      <find>numer</find>
+      <find>numeralDecimalMark</find>
+      <find>PhoneFormatter</find>
+      <find>phone</find>
+      <find>CreditCardDetector</find>
+      <find>credit</find>
+      <find>c</find>
+      <find>cred</find>
+      <find>react</find>
+      <find>angular</find>
+      <find>npx</find>
+      <find>var NumeralFormatter</find>
+      <find>NumeralFormatter =</find>
+      <find>NumeralFormatter</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/gulp-tasks/build.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/shortcuts/NumeralFormatter.js" />
+        <option value="$PROJECT_DIR$/src/shortcuts/DateFormatter.js" />
+        <option value="$PROJECT_DIR$/src/utils/Util.js" />
+        <option value="$PROJECT_DIR$/src/common/DefaultProperties.js" />
+        <option value="$PROJECT_DIR$/src/Cleave.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="29" />
+    <option name="width" value="1910" />
+    <option name="height" value="1102" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cleave.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cleave.js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cleave.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cleave.js" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cleave.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cleave.js" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cleave.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cleave.js" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6898bf4-5f5d-477a-9d82-9e55cbbdcc2f" name="Default" comment="" />
+      <created>1515509913819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515509913819</updated>
+      <workItem from="1515509915387" duration="2720000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2720000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="29" width="1920" height="1108" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23080996" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/addons/phone-type-formatter.ac.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/addons/phone-type-formatter.co.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="41" column="9" lean-forward="false" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/build/license.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/cleave.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp-tasks/addon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp-tasks/browserify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codacy.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp-tasks/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/shortcuts/DateFormatter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shortcuts/NumeralFormatter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shortcuts/DateFormatter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/DefaultProperties.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Cleave.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/shortcuts/NumeralFormatter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cleave.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="387" column="58" lean-forward="false" selection-start-line="387" selection-start-column="58" selection-end-line="387" selection-end-column="58" />
+          <folding>
+            <element signature="e#262#326#0" expanded="false" />
+            <element signature="e#332#451#0" expanded="false" />
+            <element signature="e#2285#2630#0" expanded="false" />
+            <element signature="e#2665#3299#0" expanded="false" />
+            <element signature="e#3328#3377#0" expanded="false" />
+            <element signature="e#3404#3472#0" expanded="false" />
+            <element signature="e#3500#3542#0" expanded="false" />
+            <element signature="e#3581#4246#0" expanded="false" />
+            <element signature="e#6486#6986#0" expanded="false" />
+            <element signature="e#7023#7599#0" expanded="false" />
+            <element signature="e#7636#7983#0" expanded="false" />
+            <element signature="e#8015#8535#0" expanded="false" />
+            <element signature="e#8572#8711#0" expanded="false" />
+            <element signature="e#8749#8791#0" expanded="false" />
+            <element signature="e#8819#9152#0" expanded="false" />
+            <element signature="e#9181#9222#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

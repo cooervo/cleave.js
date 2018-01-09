@@ -1,23 +1,22 @@
 {
-  "name": "cleave.js",
+  "name": "date and number formatter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {
-    "babel-cli": "^6.26.0"
-  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "minify": "sudo node_modules/uglify-js/bin/uglifyjs Formatter.js --output formatter.min.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cooervo/cleave.js.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "Apache 2",
   "bugs": {
     "url": "https://github.com/cooervo/cleave.js/issues"
   },
-  "homepage": "https://github.com/cooervo/cleave.js#readme"
+  "homepage": "https://github.com/cooervo/cleave.js#readme",
+  "devDependencies": {
+    "uglify-js": "^3.3.5"
+  }
 }

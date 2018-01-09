@@ -2,17 +2,30 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Tieeetle</title>
-  <script src="src/Cleave.js"></script>
+  <title>format</title>
+  <script src="formatter.min.js"></script>
 </head>
 <body>
-<input class="input-foo" type="text"/>
+<label>Format numbers: </label><input class="foo-num" type="text"/>
+</br>
+<label>Format dates: </label><input class="bar-date" type="text"/></br>
+<label>Prefix formatter & custom delimiters: </label><input class="prefix" type="text"/>
 <script>
-  console.log('wooot')
-  var cleave = new Cleave(document.getElementsByClassName('input-foo'), {
+  var numberFormatter = new Formatter(document.getElementsByClassName('foo-num'), {
     numeral: true,
     numeralThousandsGroupStyle: 'thousand'
   });
+
+  var dateFormatter = new Formatter(document.getElementsByClassName('bar-date'), {
+    date: true,
+    datePattern: ['Y', 'm', 'd']
+  });
+
+  var prefixFormatter = new Formatter(document.getElementsByClassName('prefix'), {
+    prefix: 'tel: ',
+    delimiter: '-',
+    blocks: [6, 4, 4, 4],
+    uppercase: true  });
 </script>
 </body>
 </html>
